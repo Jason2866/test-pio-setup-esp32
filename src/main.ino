@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <WiFi.h> // Include WiFi first
 
-WiFiClass WiFi; // Use WiFi object
+//WiFiClass WiFi; // Use WiFi object
 
 // Dummy handler to potentially use event types
 void WiFiEventHandler(arduino_event_id_t event) {
